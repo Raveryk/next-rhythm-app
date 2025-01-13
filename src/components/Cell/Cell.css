@@ -1,0 +1,29 @@
+.gridSquare {
+  height: 50px;
+  width: 50px;
+  border: 1px black solid;
+}
+
+.grey {
+  background-color: rgb(167, 167, 167);
+}
+
+.disabled {
+  opacity: 0.5;
+}
+
+.row-1 {
+  background-color: rgba(15, 225, 106, 0.405);
+}
+
+.row-2 {
+  background-color: rgba(255, 151, 60, 0.698);
+}
+
+.row-3 {
+  background-color: rgba(92, 92, 92, 0.831);
+}
+
+.row-4 {
+  background-color: rgba(254, 83, 83, 0.699);
+}

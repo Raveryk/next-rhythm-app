@@ -1,0 +1,16 @@
+.label {
+  display: flex;
+  height: 50px;
+  width: 50px;
+  justify-content: center;
+  align-items: end;
+}
+
+.beatLabel {
+  font-weight: bold;
+  font-size: large;
+}
+
+.disabled {
+  opacity: 0.8;
+}
